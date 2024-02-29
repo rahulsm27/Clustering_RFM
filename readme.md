@@ -1,4 +1,4 @@
-# RFM anlaysis on Custome Invoice Data
+# RFM anlaysis on Customer Invoice Data
 
 RFM analysis stands for Recency, Frequency, and Monetary analysis. It's a popular technique used by businesses to segment their customers based on their purchasing behavior. This analysis helps in identifying groups of customers for targeted marketing strategies. 
 
