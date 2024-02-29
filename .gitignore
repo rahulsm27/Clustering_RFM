@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-notes.ipynb 
+Notes.ipynb 
 Custering_practicse.ipynb
 
 # C extensions
