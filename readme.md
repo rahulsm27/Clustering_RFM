@@ -2,7 +2,7 @@
 
 ## Business Problem : 
 
-Identify different segments of data for target marketing strategies
+Identify different segments of customer for target marketing strategies
 
 
 ## Solution Approach 
